@@ -154,7 +154,7 @@ Page({
                   var score = users.get('score');
                   wx.showToast({
                     title:  '已坚持打卡'+score/3+'天',
-                    duration: 2000,
+                    duration: 2100,
                   })
                 }
               });
