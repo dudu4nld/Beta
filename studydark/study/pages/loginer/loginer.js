@@ -17,7 +17,7 @@ Page({
   btn_click: function(e){
     wx.showToast({
       title:  '请先授权登录',
-      duration: 500,
+      duration: 600,
       icon: 'loading',
     })
 
@@ -25,7 +25,7 @@ Page({
   btn_click2: function(e){
     wx.showToast({
       title:  '请先授权登录',
-      duration: 500,
+      duration: 600,
       icon: 'loading',
     })
 
